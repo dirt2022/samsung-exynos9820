@@ -56,7 +56,7 @@ jobs:
           ./cruelbuild config                    \
                        model=${{ matrix.model }} \
                        name="Cruel-devel"        \
-                       toolchain=system-clang      \
+                       toolchain=cruel           \
                        +magisk                   \
                        +nohardening              \
                        -ttl                      \
