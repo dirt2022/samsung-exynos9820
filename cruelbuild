@@ -114,7 +114,7 @@ models = {
         'config': 'exynos9820-d2xks_defconfig'
     },
     'N971N': {
-        'config': 'enynos9820-d1xks_defconfig'
+        'config': 'exynos9820-d1xks_defconfig'
     }
 }
 
